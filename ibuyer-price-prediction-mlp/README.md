@@ -110,17 +110,6 @@ The project utilizes the following core tools and techniques:
 
 ---
 
-## 📂 数据来源 | Data Source
-
-本项目数据来源于 Duke MQM 项目组织的 Kaggle 风格私有竞赛：  
-This project is based on a private Kaggle-style competition hosted by Duke MQM:
-
-🔗 [Prof. X’s Prize: House Price Prediction (2024)](https://www.kaggle.com/competitions/prof-xs-prize-house-price-prediction-2024)  
-> ⚠️ 本竞赛为私有，仅对授权用户开放  
-> ⚠️ This competition is private and may not be publicly accessible
-
----
-
 ## ✅ 小结 | Conclusion
 
 该项目展示了如何将回归模型与商业目标（iBuyer 盈利）结合，既有模型精度的优化，也有真实场景的收益评估，是一项融合数据科学与商业判断的综合案例。  
