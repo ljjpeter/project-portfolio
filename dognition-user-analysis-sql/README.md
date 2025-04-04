@@ -7,7 +7,7 @@
 This project analyzes real user data from the canine cognitive training app **Dognition**. It involves SQL-based data cleaning, primary key identification, and ER modeling within a Jupyter Notebook environment.
 
 > 📅 项目时间：2024 Fall（杜克大学 MQM 项目）  
-> 🧑‍🤝‍🧑 团队：Team 20 — Chuqi Fang, Yaqi Jia, Jianjun Lei, Charlaine Jo
+> 🧑‍🤝‍🧑 团队：Team 20 — Jianjun Lei, Chuqi Fang, Yaqi Jia, Charlaine Jo
 
 ---
 
