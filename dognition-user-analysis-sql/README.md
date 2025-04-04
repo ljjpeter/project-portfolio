@@ -13,18 +13,23 @@ This project analyzes real user data from the canine cognitive training app **Do
 
 ## 🔍 核心任务与发现 | Key Tasks & Findings
 
-### ✅ 数据清洗与主键识别 | Table Cleaning & Primary Keys
+### ✅ 数据清洗与主键识别 | Table Cleaning & Primary Key Identification
 
-- `complete_tests` 表  
+- `complete_tests` 表 | `complete_tests` table  
   - 原始记录数：193,246 → 清洗后：177,667  
-  - 主键字段：`created_at`, `test_name`, `dog_guid`
+    Original records: 193,246 → After cleaning: 177,667  
+  - 主键字段：`created_at`, `test_name`, `dog_guid`  
+    Primary key: `created_at`, `test_name`, `dog_guid`
 
-- `dogs` 表  
-  - 无重复记录，主键为：`dog_guid`
+- `dogs` 表 | `dogs` table  
+  - 无重复记录，主键为：`dog_guid`  
+    No duplicates found; primary key is `dog_guid`
 
-- `exam_answers` 表  
+- `exam_answers` 表 | `exam_answers` table  
   - 原始记录数：2,458,699 → 清洗后：2,452,440  
-  - 去重 & 去空值操作成功
+    Original records: 2,458,699 → After cleaning: 2,452,440  
+  - 去重 & 去空值操作成功  
+    Successfully removed duplicates and NULL values
 
 ### 🧩 实体关系图（ERD）| Entity Relationship Diagram
 
