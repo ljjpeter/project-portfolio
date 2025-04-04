@@ -43,15 +43,6 @@ This project was completed as part of the Duke Investment Club’s stock pitch p
 
 ---
 
-## 👥 团队成员 | Team Members
-
-- Jianjun Lei  
-- Ethan Chen  
-- Pavan Kumar Meka  
-- Kevin Sun
-
----
-
 ## 📁 文件说明 | File Structure
 
 - `Final Presentation.pdf` – 股票投研汇报用 Pitch Deck  
